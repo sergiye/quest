@@ -1,4 +1,4 @@
 # stainless-steel-rat
 Text quest in the form of a web application
 
-![screenshot.png](/images/screenshot.png)
+Check it online with GitHub pages <a href="https://sergiye.github.io/quest/">here</a>
